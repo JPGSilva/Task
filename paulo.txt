@@ -8,3 +8,12 @@ Fernando
 Catia
 Izabel
 Katiuca
+
+
+
+CIDADES:
+
+Tres Lagoas/MS
+Aracaju/SE
+Itabirito/MG
+Aracatuba/SP
